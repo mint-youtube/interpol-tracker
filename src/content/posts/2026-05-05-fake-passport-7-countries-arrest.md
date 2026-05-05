@@ -22,7 +22,7 @@ draft: false
 
 인터폴과 싱가포르 경찰청의 공조 작전은 이후 수시간 내에 전 세계 주요 언론에 일제히 보도되었다. "세계에서 가장 오래 도주한 여권 위조 전문가 검거." 그것이 2019년 8월 21일이 역사에 남긴 기록이었다.
 
-{![scene-2](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-2_img_2.png)}
+![scene-2](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-2_img_2.png)
 
 ## 2011년 베를린 — 완벽한 범죄자가 탄생한 날
 
@@ -36,7 +36,7 @@ draft: false
 
 2011년 6월 14일 새벽 5시. 독일 연방범죄수사청(Bundeskriminalamt, BKA)은 베를린, 함부르크, 뮌헨 세 도시에서 동시에 급습 작전을 펼쳤다. 기습에 네트워크 구성원 12명이 현장에서 체포되었다. 다수의 위조 여권과 인쇄 장비, 수십 개의 암호화 USB 드라이브가 압수되었다. 하지만 이 모든 것의 정점에 있던 안톤 크라우스는 그 자리에 없었다. 그는 이미 몇 시간 전에 베를린을 빠져나간 후였다.
 
-{![scene-3](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-3_img_2.png)}
+![scene-3](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-3_img_2.png)
 
 ## 7개의 얼굴, 7개의 인생 — 얀 노박에서 데이빗 머피까지
 
@@ -48,7 +48,7 @@ draft: false
 
 하지만 이 도주 생활에는 보이지 않는 대가가 따랐다. 누구와도 진심으로 친해질 수 없었다. 어떤 관계도 6개월을 넘기지 않았다. 자신의 진짜 이름을 말할 수 없었고, 과거를 이야기할 수 없었으며, 미래를 계획할 수 없었다. 감시당한다는 공포가 24시간 그를 따라다녔다. 법집행 기관에서는 이런 상태를 '황금 우리(golden cage)'라고 부른다. 겉으로는 자유롭게 세계를 누비는 것처럼 보이지만, 실제로는 자기 자신이 설계한 감옥 안에 영구히 갇혀 있는 상태다. 크라우스의 8년은 자유가 아니었다. 그것은 철저하게 계획된 고독이었다.
 
-{![scene-4](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-4_img_2.png)}
+![scene-4](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-4_img_2.png)
 
 ## 화장실 문 너머에서 들려온 목소리 — "출구는 없습니다"
 
@@ -60,7 +60,7 @@ draft: false
 
 2019년 8월, 크라우스는 마지막 신분인 미국인 데이빗 머피로서 싱가포르 창이 공항에 나타났다. 최종 목적지는 호주 시드니. 동남아시아 생활을 정리하고 새 대륙으로 넘어가려는 계획이었다. 그러나 창이 공항의 생체인식 시스템은 2011년 독일 수사 당시 확보된 안톤 크라우스의 지문 데이터를 인터폴 SLTD(도난·분실 여행 서류 데이터베이스)를 통해 이미 연동하고 있었다. 체크인 카운터에서 그의 지문이 스캔되었고, 3분 12초 뒤 일치 결과가 도출되었다. 싱가포르 경찰청은 즉시 CCTV 추적을 가동했고, 무장 경찰 4명이 화장실 입구에 조용히 배치되었다. 47초 후 문이 열렸다. 크라우스가 나서는 순간 경찰관이 말했다. "출구는 없습니다." 수갑이 채워지기까지 걸린 시간은 3초였다.
 
-{![scene-5](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-5_img_2.png)}
+![scene-5](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-5_img_2.png)
 
 ## 지문 하나가 바꾼 세상 — 징역 15년, 22가지 죄목
 
@@ -74,6 +74,6 @@ draft: false
 
 위조 여권의 시대는 저물고 있다. 아무리 정교하게 만든 가짜 신분도 생체정보를 대신할 수는 없다. 이름은 바꿀 수 있다. 국적도 바꿀 수 있다. 얼굴도 성형으로 바꿀 수 있다. 하지만 지문은 바꿀 수 없다. 8년이라는 긴 세월도, 7개의 이름도, 7개의 다른 인생도. 결국 창이 공항 화장실 문 앞에서 수갑이 채워지는 3초 앞에 모두 사라졌다.
 
-{![scene-6](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-6_img_2.png)}
+![scene-6](https://assets.dailynote.blog/interpol-tracker/2026-05-05-fake-passport-7-countries-arrest/scene-6_img_2.png)
 
 이 글의 원본 영상: {{youtube_url}}
