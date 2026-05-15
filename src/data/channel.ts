@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🌍",
   category: "범죄",
   tagline: "국제 수배범의 도주와 추적, 그 결정적 순간",
+  youtubeUrl: "https://youtube.com/channel/UC526LGkVTOha5-EXO36JHtQ",
   layoutId: "spy-dossier",
   isLight: false,
   tokens: {
