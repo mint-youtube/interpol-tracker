@@ -126,5 +126,3 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 완벽한 위장이란 존재하지 않는다. 다만 아직 발각되지 않은 위장이 있을 뿐이다.
 
 ---
-
-이 글의 원본 영상: {{youtube_url}}
