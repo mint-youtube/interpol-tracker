@@ -5,7 +5,7 @@ pubDate: 2026-06-12T09:23:00+09:00
 author: ""
 category: ""
 tags: ["카를로스 자칼", "1994년 수단 체포", "국제 테러리스트", "프랑스 수사", "인터폴 추적"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=AXF98qlKMXQ"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-12-carlos-the-jackal-1994-sudan-arrest/scene-2_img_2.png"
 draft: false
 ---
