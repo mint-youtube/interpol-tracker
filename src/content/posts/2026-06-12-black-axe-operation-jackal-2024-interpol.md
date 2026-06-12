@@ -5,7 +5,7 @@ pubDate: 2026-06-12T22:35:00+09:00
 author: ""
 category: ""
 tags: ["블랙액스", "인터폴 잭칼 작전", "나이지리아 사이버 범죄", "BEC 사기", "국제 사이버 범죄 수사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2JAkH1KqVs0"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-12-black-axe-operation-jackal-2024-interpol/scene-2_img_2.png"
 draft: false
 ---
