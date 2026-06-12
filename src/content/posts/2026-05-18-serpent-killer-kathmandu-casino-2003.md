@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:27:00+09:00
 author: ""
 category: ""
 tags: ["연쇄살인마", "샤를소브라즈", "비키니킬러", "인터폴", "도주범추적", "실화범죄", "범죄다큐", "방콕살인사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=HSu2938Fsrs"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-18-serpent-killer-kathmandu-casino-2003/scene-2_img_2.png"
 draft: false
 ---

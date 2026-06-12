@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["FBI 10대 지명수배자", "도주 살인범 체포 실화", "지문 수사 데이터베이스", "미국 범죄 다큐 실화", "인터폴 추적 FBI"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=cCO8rHgKeBY"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-10-interpol-fingerprint-pizza-box/intro_img_1.png"
 draft: false
 ---

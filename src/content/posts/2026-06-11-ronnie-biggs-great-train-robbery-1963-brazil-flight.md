@@ -5,7 +5,7 @@ pubDate: 2026-06-11T19:16:00+09:00
 author: ""
 category: ""
 tags: ["로니 빅스", "대열차강도", "1963년 영국 강도", "브라질 도주", "탈옥 범죄"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gfGzWHcqybA"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-11-ronnie-biggs-great-train-robbery-1963-brazil-flight/scene-2_img_2.png"
 draft: false
 ---

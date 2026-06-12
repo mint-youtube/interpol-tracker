@@ -5,7 +5,7 @@ pubDate: 2026-05-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["인터폴", "적색 수배", "2026", "Red Notice", "국제 수배", "도주범", "위장 신분", "국제 공조", "인터폴 추적", "행동 잔상"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ALnKv9Ao1QQ"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-30-interpol-red-notice-most-wanted-2026/scene-2_img_2.png"
 draft: false
 ---

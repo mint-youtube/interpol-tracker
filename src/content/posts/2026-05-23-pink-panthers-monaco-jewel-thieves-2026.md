@@ -5,7 +5,7 @@ pubDate: 2026-05-23T22:08:00+09:00
 author: ""
 category: ""
 tags: ["핑크팬더", "모나코강도", "인터폴", "보석강도", "발칸조직", "국제수배", "2026사건", "보석점강탈", "마르코M", "국제공조"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=lJ_VjKFoH3o"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-23-pink-panthers-monaco-jewel-thieves-2026/scene-2_img_2.png"
 draft: false
 ---

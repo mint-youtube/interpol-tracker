@@ -5,7 +5,7 @@ pubDate: 2026-05-09T09:00:00+09:00
 author: ""
 category: ""
 tags: ["BTK 연쇄살인범", "데니스 레이더", "BTK 검거 과정", "플로피 디스크 포렌식", "연쇄살인 수사", "범죄심리학", "디지털 포렌식", "인터폴 추적", "미국 연쇄살인 실화", "냉전 미결 사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=GaUuSEsUy4E"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-08-btk-killer-30year-floppy-disk/intro_img_1.png"
 draft: false
 ---

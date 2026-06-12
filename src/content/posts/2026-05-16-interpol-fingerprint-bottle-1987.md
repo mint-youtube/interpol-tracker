@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["인터폴 적색 수배", "빅토르 카지모프", "국제 무기 밀매", "위조 여권 도주", "인터폴 추적 한계", "신원 세탁 기술", "소련 붕괴 암시장", "생체 인식 수사", "국제 도주범", "지문 데이터베이스"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=6jWQi6VJflc"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-05-16-interpol-fingerprint-bottle-1987/intro_img_1.png"
 draft: false
 ---
