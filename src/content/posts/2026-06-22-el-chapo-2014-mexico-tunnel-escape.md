@@ -5,7 +5,7 @@ pubDate: 2026-06-22T21:33:00+09:00
 author: ""
 category: ""
 tags: ["엘차포", "구즈만", "땅굴 탈옥", "시날로아 카르텔", "마약왕 체포", "국제 공조", "알티플라노", "범죄 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Io7i30dfBuA"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-22-el-chapo-2014-mexico-tunnel-escape/scene-2_img_2.png"
 draft: false
 ---
