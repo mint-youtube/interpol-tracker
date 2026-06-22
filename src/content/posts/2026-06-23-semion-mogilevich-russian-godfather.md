@@ -5,7 +5,7 @@ pubDate: 2026-06-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["세묜 모길레비치", "FBI 수배자", "러시아 마피아 보스", "범죄인 인도 조약", "국제 공조 한계", "조직범죄 수사", "증권 사기", "FBI 현상금"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=b4WLfwMDYY8"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-23-semion-mogilevich-russian-godfather/scene-2_img_2.png"
 draft: false
 ---
