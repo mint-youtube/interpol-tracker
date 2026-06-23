@@ -5,7 +5,7 @@ pubDate: 2026-06-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["화이티 벌저", "FBI 10대 수배자", "보스턴 갱", "산타모니카 체포", "16년 도주"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=5aTUAeCouao"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-24-whitey-bulger-16year-fugitive-2011-santa-monica/scene-2_img_2.png"
 draft: false
 ---
