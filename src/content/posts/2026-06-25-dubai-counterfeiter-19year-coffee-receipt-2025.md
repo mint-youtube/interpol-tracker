@@ -5,7 +5,7 @@ pubDate: 2026-06-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["위조지폐 추적", "인터폴 위조화폐", "커피 영수증 단서", "국제 위조범 체포", "디지털 결제 기록 수사", "두바이 위조범", "Interpol 위조화폐 연구소", "장기 추적 검거"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mbs8jc5Ue2U"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-25-dubai-counterfeiter-19year-coffee-receipt-2025/scene-2_img_2.png"
 draft: false
 ---
