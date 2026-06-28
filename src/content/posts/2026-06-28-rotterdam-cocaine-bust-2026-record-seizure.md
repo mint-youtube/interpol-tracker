@@ -5,7 +5,7 @@ pubDate: 2026-06-28T22:02:00+09:00
 author: ""
 category: ""
 tags: ["로테르담", "코카인압수", "인터폴", "국제마약수사", "네덜란드항구", "콜롬비아카르텔", "알바니아조직", "2026사건", "마약밀매", "야니V"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=H0Y-hOg_h7U"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-06-28-rotterdam-cocaine-bust-2026-record-seizure/scene-2_img_2.png"
 draft: false
 ---
