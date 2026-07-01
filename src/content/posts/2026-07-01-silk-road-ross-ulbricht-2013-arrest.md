@@ -5,7 +5,7 @@ pubDate: 2026-07-01T16:08:00+09:00
 author: ""
 category: ""
 tags: ["실크로드", "다크웹", "로스 울브리히트", "공포의 해적 로버츠", "디지털 추적", "익명 통신망", "체포 순간", "비트코인 범죄"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=19x6Yh4KK8o"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-01-silk-road-ross-ulbricht-2013-arrest/scene-2_img_2.png"
 draft: false
 ---
