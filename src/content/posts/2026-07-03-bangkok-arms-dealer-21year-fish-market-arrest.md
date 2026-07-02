@@ -5,7 +5,7 @@ pubDate: 2026-07-03T09:00:00+09:00
 author: ""
 category: ""
 tags: ["무기 밀매상 검거", "인터폴 적색 수배", "CCTV 영상 분석", "국제 도주범 추적", "방콕 무기상", "Interpol 생체정보", "장기 추적 검거", "국제 무기 밀매"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=CMjQib2wYFY"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-03-bangkok-arms-dealer-21year-fish-market-arrest/scene-2_img_2.png"
 draft: false
 ---
