@@ -5,7 +5,7 @@ pubDate: 2026-07-02T14:14:00+09:00
 author: ""
 category: ""
 tags: ["인터폴 팡게아 작전", "가짜 의약품", "위조약품", "온라인 불법 약국", "국제 범죄 수사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RtXPgvbgyug"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-02-operation-pangea-counterfeit-medicine-2024/scene-2_img_2.png"
 draft: false
 ---
