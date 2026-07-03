@@ -5,7 +5,7 @@ pubDate: 2026-07-04T09:00:00+09:00
 author: ""
 category: ""
 tags: ["ANOM 작전", "FBI 암호폰", "트로이의 방패 작전", "국제 마약 조직 검거", "호주 연방경찰", "함정수사 논란", "암호화 메신저 감청"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=u93JNPMUBDw"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-04-operation-trojan-shield-anom-2021-fbi-encrypted/scene-2_img_2.png"
 draft: false
 ---
@@ -92,5 +92,3 @@ ANOM 작전, 즉 트로이의 방패 작전은 21세기 국제 범죄 수사의 
 ![scene-2](https://assets.dailynote.blog/interpol-tracker/2026-07-04-operation-trojan-shield-anom-2021-fbi-encrypted/scene-2_img_1.png)
 
 범죄자들이 가장 안전하다고 믿었던 그 스마트폰이, 사실은 처음부터 끝까지 FBI의 감청 장치였다는 사실은 지금 돌이켜봐도 놀랍습니다. 800명의 체포, 8톤에 달하는 코카인 압수, 그리고 사전에 차단된 수십 건의 살인 계획. 트로이의 방패 작전은 화려한 액션 영화 같은 순간 없이도, 조용한 기술적 설계 하나로 세계 마약 범죄 지형을 뒤흔든 사례로 오래도록 회자될 것입니다.
-
-이 글의 원본 영상: {{youtube_url}}
