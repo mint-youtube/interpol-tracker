@@ -5,7 +5,7 @@ pubDate: 2026-07-15T09:00:00+09:00
 author: ""
 category: ""
 tags: ["미술품 위조", "위작 사건", "인터폴", "벨트라키", "예술 범죄", "위장 전문가", "미제사건", "티타늄 화이트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jkDlccg187Y"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-15-lisbon-art-forger-16year-12-identities-2024/scene-2_img_2.png"
 draft: false
 ---
