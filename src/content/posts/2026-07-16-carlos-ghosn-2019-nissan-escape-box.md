@@ -5,7 +5,7 @@ pubDate: 2026-07-16T09:00:00+09:00
 author: ""
 category: ""
 tags: ["카를로스 곤", "카를로스 곤 탈출", "인터폴 적색 수배", "일본 탈출", "닛산 회장", "마이클 테일러", "국제 도주", "범죄인 인도 조약"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=S_zhUArLJuE"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-16-carlos-ghosn-2019-nissan-escape-box/scene-2_img_2.png"
 draft: false
 ---
