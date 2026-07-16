@@ -5,7 +5,7 @@ pubDate: 2026-07-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["루자 이그나토바", "원코인", "코인 여왕", "루자 이그나토바 실종", "FBI 지명 수배", "암호화폐 사기", "다단계 사기", "장기 추적"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=LyNMaBqaOHg"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-17-ruja-ignatova-onecoin-cryptoqueen-vanished/scene-2_img_2.png"
 draft: false
 ---
