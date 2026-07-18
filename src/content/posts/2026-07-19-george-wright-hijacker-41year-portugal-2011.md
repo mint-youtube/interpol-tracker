@@ -5,7 +5,7 @@ pubDate: 2026-07-19T09:00:00+09:00
 author: ""
 category: ""
 tags: ["조지 라이트", "항공기 납치", "조지 라이트 체포", "지문 대조", "냉각 사건", "포르투갈 인도 거부", "장기 추적", "국제 도주"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ZLj4pU29aXg"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-19-george-wright-hijacker-41year-portugal-2011/scene-2_img_3.png"
 draft: false
 ---
