@@ -5,7 +5,7 @@ pubDate: 2026-07-23T09:30:00+09:00
 author: ""
 category: ""
 tags: ["엘 차포", "구스만", "시날로아 카르텔", "마약왕 체포", "작전 블랙 스완", "로스모치스", "숀 펜 인터뷰", "케이트 델 카스티요", "땅굴 탈옥", "멕시코 마약"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Gy_jHySU8Fs"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-23-el-chapo-2016-recapture-mexico/scene-2_img_2.png"
 draft: false
 ---
