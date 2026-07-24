@@ -5,7 +5,7 @@ pubDate: 2026-07-24T12:46:00+09:00
 author: ""
 category: ""
 tags: ["레너드 프랜시스", "살찐 레너드", "해군 뇌물 사건", "글렌 디펜스 마린 아시아", "군납 비리", "인터폴 적색 수배", "베네수엘라 검거", "발찌 도주"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=prOXW6bUMdc"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-24-fat-leonard-francis-navy-2022-ankle-monitor/scene-2_img_2.png"
 draft: false
 ---
