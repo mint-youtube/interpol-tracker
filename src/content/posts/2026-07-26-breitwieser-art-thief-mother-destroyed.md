@@ -5,7 +5,7 @@ pubDate: 2026-07-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["브라이트비저", "미술품 절도", "예술품 도난", "세계 최고 미술 도둑", "미술관 절도 사건", "도난 미술품", "인터폴 추적", "실화 범죄"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=lmmCYMh2LeY"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-26-breitwieser-art-thief-mother-destroyed/scene-2_img_2.png"
 draft: false
 ---
