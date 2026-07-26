@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["크리스토퍼 스케이스", "스케이스 재벌", "재벌 도주", "송환 거부", "호주 재벌 몰락", "국제 도주극", "인터폴 추적", "실화 범죄"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=11va6pRIvSY"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-27-skase-tycoon-wheelchair-extradition-10year/scene-2_img_2.png"
 draft: false
 ---
