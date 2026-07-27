@@ -5,7 +5,7 @@ pubDate: 2026-07-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["인터폴", "국제수배", "무기밀매", "가짜여권", "외교관 면책특권", "국제공조", "적색수배"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=BLddxbitrLE"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-28-weapons-dealer-fake-diplomat-bangkok/scene-2_img_3.png"
 draft: false
 ---
