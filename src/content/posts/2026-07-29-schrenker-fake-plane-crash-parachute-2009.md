@@ -5,7 +5,7 @@ pubDate: 2026-07-29T09:00:00+09:00
 author: ""
 category: ""
 tags: ["마커스 슈렌커", "가짜 비행기 추락", "자작극 사기", "낙하산 도주", "자산관리사 사기", "국제 추적", "범죄 실화", "죽음 위조"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RMC9VJ7Eeio"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-29-schrenker-fake-plane-crash-parachute-2009/scene-2_img_2.png"
 draft: false
 ---
