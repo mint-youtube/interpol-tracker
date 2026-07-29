@@ -5,7 +5,7 @@ pubDate: 2026-07-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["후시푸피", "인스타그램 사기", "자금 세탁", "국제 사기", "비즈니스 이메일 침해", "두바이 체포", "인터폴 추적", "사이버 범죄"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eAd5OoXHxeY"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-07-30-hushpuppi-instagram-fraudster-dubai-2020/scene-2_img_2.png"
 draft: false
 ---
