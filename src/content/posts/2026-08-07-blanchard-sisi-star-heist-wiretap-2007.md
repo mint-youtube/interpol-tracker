@@ -5,7 +5,7 @@ pubDate: 2026-08-07T09:00:00+09:00
 author: ""
 category: ""
 tags: ["제럴드 블랜차드", "쇤브룬 궁전 도난", "다이아몬드 별", "세계에서 가장 정교한 도둑", "프로젝트 카이트", "보석 도난 사건", "국제 추적", "위니펙 경찰"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=-IHcDTpW8h0"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-08-07-blanchard-sisi-star-heist-wiretap-2007/scene-2_img_2.png"
 draft: false
 ---
