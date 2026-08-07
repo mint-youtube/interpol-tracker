@@ -5,7 +5,7 @@ pubDate: 2026-08-08T09:00:00+09:00
 author: ""
 category: ""
 tags: ["폴 르 루", "범죄 제국", "암호화 프로그램", "마약단속국", "라이베리아 체포", "얼굴 없는 유령", "국제 밀거래", "국제 추적"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=AmxhzzOyblI"
 heroImage: "https://assets.dailynote.blog/interpol-tracker/2026-08-08-paul-leroux-programmer-empire-liberia-2012/scene-2_img_2.png"
 draft: false
 ---
